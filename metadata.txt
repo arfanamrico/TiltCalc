@@ -1,0 +1,14 @@
+[general]
+name=TiltCalc
+qgisMinimumVersion=3.10
+description=Plugin untuk menghitung tilt footprint dengan DEM-aware (terrain model), column mapping, dan simulasi sektor.
+version=1.0.0
+author=Arfan Amrico
+email=arfanamrico@gmail.com
+icon=icon.png
+about=Plugin TiltCalc untuk membuat polygon footprint sektor berdasarkan data GCELL. Mendukung DEM sampling 30m, model terrain-aware, multi-feature processing (task), column mapping, serta simulasi satu sektor.
+category=Analysis
+tracker=
+repository=
+homepage=
+
